@@ -1,0 +1,106 @@
+Variable_badwind_short
+{BadW}
+Variable_ColonyGuardiang_18
+{Hull}
+Variable_shipyard_25
+{Class}
+Variable_shipyard_27
+{Ship}
+Variable_shipyard_30
+{DeadWt}
+Variable_shipyard_80
+{Cabin selection is handled by Caribbean Legend.}
+Variable_sAdd_1
+{ - hull:}
+Variable_sAdd_2
+{ - masts:}
+Variable_sAdd_3
+{ - speed:}
+Variable_sAdd_4
+{ - maneuverability:}
+Variable_sAdd_5
+{ - backwind:}
+Variable_sAdd_6
+{ - deadweight:}
+Variable_sAdd_7
+{ - crew:}
+Variable_sAdd_8
+{ - caliber:}
+Variable_cannons_price
+{Cannons price: }
+Variable_shipyard1_1
+{Commission}
+Variable_shipyard1_2
+{Construction time: }
+Variable_shipyard1_3
+{ days}
+Variable_shipyard1_4
+{Type: }
+Variable_shipyard1_5
+{Caliber: }
+Variable_shipyard1_6
+{Range: }
+Variable_shipyard1_7
+{Reload: }
+Variable_shipyard1_8
+{ sec.}
+Variable_shipyard1_9
+{Weight: }
+Variable_shipyard1_10
+{ c.}
+Variable_shipyard1_11
+{Maximum crew including overload: }
+Variable_shipyard1_12
+{Loaded: }
+Variable_shipyard1_13
+{Ship}
+Variable_shipyard1_14
+{Class}
+Variable_shipyard1_15
+{Cannons}
+Variable_shipyard1_16
+{DeadWt}
+Variable_shipyard1_17
+{Speed}
+Variable_shipyard1_18
+{Crew}
+Variable_shipyard1_19
+{ (English patent required)}
+Variable_shipyard1_20
+{ (Spanish patent required)}
+Variable_shipyard1_21
+{ (French patent required)}
+Variable_shipyard1_22
+{ (Dutch patent required)}
+Variable_shipyard1_23
+{Commission}
+Variable_shipyard1_24
+{Commission}
+Variable_shipyard1_25
+{Patent required}
+Variable_shipyard1_26
+{Commission this ship for }
+Variable_shipyard1_27
+{Special improvements require the following materials:}
+Variable_shipyard1_28
+{ units, }
+Variable_shipyard1_29
+{ units, }
+Variable_shipyard1_30
+{coin chests - }
+Variable_shipyard1_31
+{ units}
+Variable_shipyard1_32
+{Ship price: }
+Variable_shipyard1_33
+{Material}
+Variable_shipyard1_34
+{Quantity}
+Variable_shipyard1_35
+{Upgrade advance: }
+Variable_shipyard1_36
+{Total cost: }
+Variable_shipyard1_37
+{Shipwright Mastery: -  - Improvement Limits: -  - Improvement Points: -  - Available Upgrades:}
+Variable_shipyard2_30
+{Shipwright Mastery: -  - Available Improvements:}
