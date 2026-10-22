@@ -1,0 +1,32 @@
+CSP SHIP UPGRADE TEST CHECKLIST 1.3.0
+
+Use a copied save for this test.
+
+1. Start Caribbean Legend and confirm the main menu and saved game load.
+2. Visit at least one English, French, Spanish, and Dutch shipyard.
+3. Select "I want to upgrade and refit my ship."
+4. Confirm the CSP layout opens and Escape returns to the shipyard.
+5. Confirm all fourteen rows have readable names, material icons, and
+   Available / Not suitable / Installed status.
+6. Test Merchant, Universal, and Warship template buttons on matching ships.
+7. Select one upgrade manually, then remove it.
+8. Select one to three upgrades and confirm:
+   - upgrade count is correct;
+   - material totals update;
+   - construction time is reasonable;
+   - deposit does not multiply after repeated selection changes.
+9. Place the order and confirm the deposit is deducted once.
+10. Speak to a different shipyard; it must refuse to complete that order.
+11. Return to the original shipyard with only part of the requested cargo.
+12. Confirm delivered cargo is removed and the remaining amount is retained.
+13. Deliver the rest and complete the refit.
+14. Confirm time advances and the chosen upgrades show as Installed.
+15. Save, reload, and confirm the upgraded statistics remain.
+16. Confirm standard sale/repair, ship commission, and appearance menus still
+    open and close normally.
+17. Confirm Black Pearl, Cursed Black Pearl, and Queen Anne's Revenge remain
+    commissionable and keep their names and portraits.
+18. Confirm Cursed Black Pearl fog and sweep command still work.
+19. Confirm no Flying Dutchman, Kraken, or submerge command appears.
+20. Check compile.log, error.log, and system.log after the pass.
+
