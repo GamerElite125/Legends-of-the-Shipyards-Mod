@@ -1,4 +1,0 @@
-ShipOrder {Commissioned Ship}
-ShipOrder.t1 {I commissioned a @<sShipType> from @<sName> in @<cityName>. The advance was @<money>. Construction should take about @<time> days.@<TuningMaterial>}
-ShipOrder.End {The commissioned ship has been delivered.}
-ShipOrder.Lose {I cancelled the ship commission. The advance was not refunded.}
